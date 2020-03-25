@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.a1erparcial.MainActivity">
+
+    <item
+        android:id="@+id/eliminar"
+        android:title="@string/texto_eliminarprim"
+
+        android:orderInCategory="50"
+        app:showAsAction="never"/>
+
+         <item
+         android:id="@+id/ordgenero"
+         android:title="@string/texto_ordgenero"
+
+         android:orderInCategory="10"/>
+
+     <item
+         android:id="@+id/ordxnombre"
+         android:title="@string/texto_ordaz"
+
+         android:orderInCategory="10"/>
+     <item
+         android:id="@+id/invlista"
+         android:title="@string/texto_inv"
+
+         android:orderInCategory="10"/>
+
+ </menu>

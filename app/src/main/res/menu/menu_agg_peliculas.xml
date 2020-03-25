@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.a1erparcial.Agg_peliculas">
+
+
+
+    <item android:title="@string/texto_listasdo"
+        android:id="@+id/mnulistado"
+        android:orderInCategory="100"
+        />
+
+    <item android:title="@string/texto_may"
+        android:id="@+id/mnumayuscula"
+        android:orderInCategory="100"
+
+        />
+</menu>

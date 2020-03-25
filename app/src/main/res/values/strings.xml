@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YOUR FILMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="texto_nombrep">NOMBRE PELICULA</string>
+    <string name="texto_director">DIRECTOR</string>
+    <string name="texto_idioma">IDIOMA</string>
+    <string name="hint_pelicula">"Digite pelicula</string>
+    <string name="hint_director">"Digite director</string>
+    <string name="texto_genero">GENERO</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="boton_español">Español</string>
+    <string name="boton_ingles">Ingles</string>
+    <string name="texto_ordgenero">Ordenar por genero</string>
+    <string name="texto_ordaz">Ordenar A-Z por nombre</string>
+    <string name="texto_inv">Invertir lista</string>
+    <string name="texto_eliminarprim">Eliminar la primera</string>
+    <string name="texto_may">Mayuscula</string>
+    <string name="texto_listasdo">Listado</string>
+
+</resources>
